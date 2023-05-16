@@ -1,3 +1,3 @@
 # Git_Deneme
-##Deneme
+## Deneme 
 bu bir github deneme projesidir.
